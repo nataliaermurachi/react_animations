@@ -1,1 +1,0 @@
-test animations in react
